@@ -1,0 +1,29 @@
+{
+  "name": "2.ignite-the-app",
+  "version": "1.0.0",
+  "description": "This is a Masterclass of React",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "parcel build -D index.html"
+  },
+  "keywords": [
+    "react",
+    "codesolverkushal"
+  ],
+  "author": "Kushal",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "formik": "^2.4.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.19.0",
+    "react-router-dom": "^6.18.0"
+  },
+  "browsersList": [
+    "last 2 version"
+  ]
+}
